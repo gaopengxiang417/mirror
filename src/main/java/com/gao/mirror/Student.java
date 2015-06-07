@@ -52,4 +52,9 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+
+    public static int renameTest(int a) {
+        test = 998;
+        return a;
+    }
 }
