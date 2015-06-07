@@ -19,5 +19,6 @@ public class ClassTest {
         //等价于下面的代码逻辑
         Class<?> aClass1 = Class.forName("java.lang.String", false, null);
 
+
     }
 }
